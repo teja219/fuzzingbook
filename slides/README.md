@@ -1,1 +1,0 @@
-This is the folder in which generated slide HTML files are stored.

@@ -1,1 +1,0 @@
-This folder contains all the notebooks (i.e., the sources) for "The Fuzzing Book".

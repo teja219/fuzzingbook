@@ -1,3 +1,0 @@
-# Notebooks in this folder are versioned with _no_ output
-*.ipynb		filter=nbstripout
-*.ipynb		diff=ipynb
